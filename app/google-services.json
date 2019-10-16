@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "192782555394",
+    "firebase_url": "https://geocontrol-ae08f.firebaseio.com",
+    "project_id": "geocontrol-ae08f",
+    "storage_bucket": "geocontrol-ae08f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192782555394:android:094446bae326b017c90a1b",
+        "android_client_info": {
+          "package_name": "com.example.geocontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192782555394-haneemhthmv2nrl3dtnm0n2gmjp1pao4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz4DM6FpIYL9nWt4L80CfOC4niL3IrTuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192782555394-haneemhthmv2nrl3dtnm0n2gmjp1pao4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
